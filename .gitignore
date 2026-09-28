@@ -3,4 +3,9 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 FinanceRAG/
+
 main_explanation.txt
+CHROMA_what_is.txt
+RAG_in_python.txt
+LANGCHAIN_what_is.txt
+RAG_what_is.txt
