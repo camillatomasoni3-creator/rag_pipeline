@@ -1,0 +1,27 @@
+https://medium.com/@o39joey/introduction-to-rag-with-python-langchain-62beeb5719ad
+
+RAG (Retrieval-Augmented Generation) is a technique 
+where external content is provided to a model as context, 
+allowing it to respond more accurately and informatively.
+
+LangChain is a versatile framework designed to help 
+developers easily build applications with LLMs.
+
+A basic RAG flow generally consists of two main components: 
+an index and a large language model (LLM).
+
+The index stores data in easily retrievable chunks that can be 
+queried and provided to the LLM as context.
+This allows the LLM to answer queries using information 
+it wasn’t originally trained on, as mentioned earlier.
+
+For indexing, we’ll use ChromaDB, a free and open-source vector database.
+And a LLM to create embeddings for retrieval.
+
+1. Setting up the index:
+use chromaDB as index. 
+it splits the text in chunks, and store them.
+select the embedding model.
+
+2. RAG flow
+initialize the retriever and the LLM.

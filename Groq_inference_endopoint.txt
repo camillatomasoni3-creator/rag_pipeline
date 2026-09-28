@@ -1,0 +1,30 @@
+https://www.analyticsvidhya.com/blog/2024/03/getting-started-with-groq-api/
+
+Real-time AI systems rely heavily on fast inference. 
+Inference APIs from industry leaders like OpenAI, Google, 
+and Azure enable rapid decision-making.
+
+
+Founded in 2016, Groq is a California-based AI solutions startup 
+with its headquarters located in Mountatin View.
+
+Grow, which specializes in ultra-low latency AI inference, has 
+advanced AI computing performance significantly.
+
+ Groq is providing free-to-use API endpoints to the 
+ Large Language Models running on the Groq LPU – 
+ Language Processing Unit.
+
+Groq's LPY is a technology aimed to enhance AI computing performance, 
+particularly for LLMs. 
+The Groq LPY system strives to deliver real-time, low-latency experiences 
+with exceptional inference performance. 
+
+Groq is even compatible with LangChain. 
+To begin using Groq in LangChain, download the library:
+pip install langchain-groq
+
+
+Groq = hardware and platform for inference, created to 
+serve LLMs with low latency. 
+

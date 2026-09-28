@@ -1,0 +1,15 @@
+https://medium.com/@shankarwagh297/understanding-langchain-the-key-components-behind-the-magic-d6ddb996a241
+
+LangChain is an open-source framework designed to simplify the development of LLM-based 
+applications, (like chatbots, RAG apps) by providing 
+modular components, integrations, and end-to-end tools.
+
+Core Features of LangChain:
+
+1. Support all major LLMs.
+Compatible with popular language models like OpenAI; Anthropic, 
+HuggingFace, ...
+
+2. Integration available for all major tools
+Supports integration with APIs, vector databases, 
+file systems, web data, and more.

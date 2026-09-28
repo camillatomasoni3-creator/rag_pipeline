@@ -1,0 +1,7 @@
+https://huggingface.co/docs/hub/datasets-embedding-atlas
+
+Embedding Atlas is an interactive visualization tool for exploring large 
+embedding spaces.
+It enables to visualize and search embeddings alongside associated metadata,
+helping to understand patterns and relationships in high-dimensional data.
+

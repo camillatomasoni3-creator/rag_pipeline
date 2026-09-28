@@ -1,0 +1,4 @@
+FinDER: NDCG@10 = 0.2309
+FinQABench: NDCG@10 = 0.7707
+FinanceBench: NDCG@10 = 0.5796
+OVERALL (mean): NDCG@10 = 0.5271
